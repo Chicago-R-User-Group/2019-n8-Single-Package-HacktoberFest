@@ -8,9 +8,8 @@
 
 ### Will Bonnell, author of [ctar](https://github.com/willdebras/ctar): Package to interact with CTA train API.
 
-### James Lamb, co-author of [uptasticsearch](https://github.com/uptake/uptasticsearch): Data science-friendly dataframe client for Elasticsearch.
+### [James Lamb](https://github.com/jameslamb), co-author of [uptasticsearch](https://github.com/uptake/uptasticsearch): Data science-friendly data frame client for Elasticsearch.
 
 ### Anh Tran, author of [HPAanalyze](https://github.com/trannhatanh89/HPAanalyze) (of Bioconductor): Biological data visualization and access to a public dataset.
 
 ### Nick Reddell, author of [forecastML](https://github.com/nredell/forecastML): Wrapper package that supports forecasting with non-time series ML methods.
-
